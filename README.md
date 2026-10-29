@@ -19,4 +19,5 @@ My background spans industrial design, business design, brand strategy, and expe
 
 Most active development is in private repositories.
 
-[Realty Haus](https://realtyhaus.com) · [LinkedIn](https://www.linkedin.com/in/alina-michelle-villarreal/)
+[Realty Haus](https://realtyhaus.com/?utm_source=github&utm_medium=referral&utm_campaign=github_profile&utm_content=readme) · [LinkedIn](https://www.linkedin.com/in/alina-michelle-villarreal/)
+
