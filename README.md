@@ -4,7 +4,7 @@
 
 I build software, data platforms, and automation that connect information and make complex operations easier to manage.
 
-As a solo founder, I work across product strategy, development, integrations, and operations, from defining the problem to implementing and refining the solution.
+I work independently across product strategy, development, integrations, and operations, from defining the problem to implementing and refining the solution.
 
 ### What I'm building
 
